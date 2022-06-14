@@ -1,0 +1,15 @@
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\Controladora.dll.config
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\Controladora.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\Controladora.pdb
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\EntityFramework.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\Model.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\Model.pdb
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\Model.dll.config
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\EntityFramework.xml
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\obj\Debug\Controladora.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\obj\Debug\Controladora.csproj.CopyComplete
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\obj\Debug\Controladora.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Controladora\obj\Debug\Controladora.pdb

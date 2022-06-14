@@ -1,0 +1,12 @@
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\bin\Debug\Model.dll.config
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\bin\Debug\Model.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\bin\Debug\Model.pdb
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\bin\Debug\EntityFramework.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\bin\Debug\EntityFramework.xml
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\obj\Debug\Model.dll
+C:\Users\Navegador\Desktop\Trabajo-Practico-Prog\EjemploVista\Model\obj\Debug\Model.pdb

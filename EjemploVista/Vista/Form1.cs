@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Vista
 {
     public partial class Form1 : Form
@@ -15,6 +16,29 @@ namespace Vista
         public Form1()
         {
             InitializeComponent();
+            label2.MaximumSize = new Size(200, 0);
+            label2.AutoSize = true;
+            
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
