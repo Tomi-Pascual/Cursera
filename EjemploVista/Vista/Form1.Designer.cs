@@ -30,8 +30,8 @@ namespace Vista
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnRegistrarse = new System.Windows.Forms.Button();
+            this.btnIniciarSesion = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -47,25 +47,25 @@ namespace Vista
             this.label1.TabIndex = 0;
             this.label1.Text = "Bienvenidos a (nombre)";
             // 
-            // button1
+            // btnRegistrarse
             // 
-            this.button1.Location = new System.Drawing.Point(69, 162);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 39);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Registrarse";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnRegistrarse.Location = new System.Drawing.Point(69, 162);
+            this.btnRegistrarse.Name = "btnRegistrarse";
+            this.btnRegistrarse.Size = new System.Drawing.Size(75, 39);
+            this.btnRegistrarse.TabIndex = 1;
+            this.btnRegistrarse.Text = "Registrarse";
+            this.btnRegistrarse.UseVisualStyleBackColor = true;
+            this.btnRegistrarse.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button2
+            // btnIniciarSesion
             // 
-            this.button2.Location = new System.Drawing.Point(164, 162);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(66, 39);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Iniciar sesión";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btnIniciarSesion.Location = new System.Drawing.Point(164, 162);
+            this.btnIniciarSesion.Name = "btnIniciarSesion";
+            this.btnIniciarSesion.Size = new System.Drawing.Size(66, 39);
+            this.btnIniciarSesion.TabIndex = 2;
+            this.btnIniciarSesion.Text = "Iniciar sesión";
+            this.btnIniciarSesion.UseVisualStyleBackColor = true;
+            this.btnIniciarSesion.Click += new System.EventHandler(this.button2_Click);
             // 
             // label2
             // 
@@ -90,8 +90,8 @@ namespace Vista
             this.BackColor = System.Drawing.SystemColors.WindowText;
             this.ClientSize = new System.Drawing.Size(492, 322);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnIniciarSesion);
+            this.Controls.Add(this.btnRegistrarse);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -103,8 +103,8 @@ namespace Vista
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnRegistrarse;
+        private System.Windows.Forms.Button btnIniciarSesion;
         private System.Windows.Forms.Label label2;
     }
 }
