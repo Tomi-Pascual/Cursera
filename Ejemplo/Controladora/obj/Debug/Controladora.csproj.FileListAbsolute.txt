@@ -1,0 +1,15 @@
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\Controladora.dll.config
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\Controladora.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\Controladora.pdb
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\EntityFramework.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\Modelo.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\Modelo.pdb
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\Modelo.dll.config
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\EntityFramework.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\obj\Debug\Controladora.csproj.AssemblyReference.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\obj\Debug\Controladora.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\obj\Debug\Controladora.csproj.CopyComplete
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\obj\Debug\Controladora.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Controladora\obj\Debug\Controladora.pdb

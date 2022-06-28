@@ -1,0 +1,12 @@
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\bin\Debug\Modelo.dll.config
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\bin\Debug\Modelo.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\bin\Debug\Modelo.pdb
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\bin\Debug\EntityFramework.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\bin\Debug\EntityFramework.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\obj\Debug\Modelo.dll
+C:\Users\ramir\Dropbox\Materias\Segundo Año\Primer Cuatrimestre\Programacion Orientada a Objetos\Practica\Ejemplo\Modelo\obj\Debug\Modelo.pdb
