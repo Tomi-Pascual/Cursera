@@ -1,0 +1,3 @@
+hacer la lista de compra, que los productos se añadan a un carrito con un count de productos y
+marque el numero total de productos
+al final se envie un email con el recibo
